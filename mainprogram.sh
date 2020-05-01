@@ -18,4 +18,6 @@ ${C}     |___|_| \_\ ${Y} \____|___| |_|
 printf " ${B}  WROTEN BY ${R} #######${B} AND${R} *******  ${N}\n \n"
 
 printf "${C}give me the name of tools = \n " # delet \n and run py app 
+# app.py | git clone
+printf "${R}Action completed :) "
 
