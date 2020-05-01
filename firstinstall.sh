@@ -20,6 +20,7 @@ printf "        \033[0;36m  WROTEN BY \033[1;33m #######\033[0;36m AND\033[1;33m
 printf "\n${b}i need to install lolcat \n "
 
 printf "${y}"
+pkg install lolcat -y
 sudo apt install lolcat  -y
 
 
@@ -30,10 +31,10 @@ echo "instaling git "| lolcat -a -d 35
 printf "${dg}"
 pkg install git -y
 sudo apt install git -y
-echo "instaling lolcat" |lolcat -a -d 35
+echo "instaling figlet" |lolcat -a -d 35
 printf "${dg}"
-pkg install lolcat -y
-sudo apt install lolcat -y
+pkg install figlet -y
+sudo apt install figlet -y
 echo "instaling python3" |lolcat -a -d 35
 printf "${dg}"
 pkg install python -y
