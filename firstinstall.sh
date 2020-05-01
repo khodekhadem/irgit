@@ -24,16 +24,19 @@ sudo apt install lolcat  -y
 
 
 printf "hello \nhow are u ?\natfirst we need to install some nessesary programs
-and it might take a time " | lolcat 
+and it might take a time \n" | lolcat 
 echo "so please wait ..." | lolcat -a -d 150
 echo "instaling git "| lolcat -a -d 35
 printf "${dg}"
+pkg install git -y
 sudo apt install git -y
 echo "instaling lolcat" |lolcat -a -d 35
 printf "${dg}"
+pkg install lolcat -y
 sudo apt install lolcat -y
 echo "instaling python3" |lolcat -a -d 35
 printf "${dg}"
+pkg install python -y
 sudo apt install python -y
 printf "     every
      thing 
