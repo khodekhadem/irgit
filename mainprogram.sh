@@ -18,7 +18,7 @@ ${C}     |___|_| \_\ ${Y} \____|___| |_|
 printf " ${B}  WROTEN BY ${R} #######${B} AND${R} *******  ${N}\n \n"
 
 printf "${C}give me the name of tools = ${R}"
-python3 searcher.py
+python3 no_need.py
 echo "work done :) " |lolcat -a -d 50
 
 
