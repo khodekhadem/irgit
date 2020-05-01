@@ -1,7 +1,7 @@
 import re ,requests,os
 
 #os.system("clear")
-gitclone="git clone "
+gitclone="git clone --template=/$HOME "
 q=input()
 os.system("echo Searching...|lolcat -a -d 5 ")
 q = '+'.join(q.split())+'+github'
