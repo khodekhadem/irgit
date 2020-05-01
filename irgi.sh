@@ -17,6 +17,7 @@ printf " ${c}
 
 
 printf "        \033[0;36m  WROTEN BY \033[1;33m #######\033[0;36m AND\033[1;33m *******  \033[0m \n"
+printf "\n${y} you wont see this installation again \n "
 printf "\n${b}i need to install lolcat \n "
 
 printf "${y}"
@@ -44,5 +45,6 @@ printf "     every
    installed \n\n " | lolcat -a -d 15
 
    echo going to the main program |lolcat -a -d 40
-
- bash mainprogram.sh
+rm -rf irgit.sh
+mv no_need.sh irgit.sh
+ bash irgit.sh
