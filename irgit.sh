@@ -16,7 +16,8 @@ printf " ${c}
 "
 
 
-printf "        \033[0;36m  WROTEN BY \033[1;33m #######\033[0;36m AND\033[1;33m *******  \033[0m \n"
+printf "        \033[0;36m  WROTEN BY \033[1;33m mohamad mahdi ebrahimi\033[0;36m AND\033[1;33m seyed mahdi\033[0m \n"
+printf " ${c} telegram --->>  @khatcode "
 printf "\n${y} you wont see this installation again \n "
 printf "\n${b}i need to install lolcat \n "
 
