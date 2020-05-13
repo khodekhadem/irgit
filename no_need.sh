@@ -8,16 +8,16 @@ R='\033[0;31m'          #red
 
 printf " ${C}
 
-${C}            ___ ____   ${Y}  ____ ___ _____ 
-${C}           |_ _|  _ \  ${Y} / ___|_ _|_   _|
-${C}            | || |_) | ${Y}| |  _ | |  | |  
-${C}            | ||  _ <  ${Y}| |_| || |  | |  
-${C}           |___|_| \_\ ${Y} \____|___| |_|  
+${C}                ___ ____   ${Y}  ____ ___ _____ 
+${C}               |_ _|  _ \  ${Y} / ___|_ _|_   _|
+${C}                | || |_) | ${Y}| |  _ | |  | |  
+${C}                | ||  _ <  ${Y}| |_| || |  | |  
+${C}               |___|_| \_\ ${Y} \____|___| |_|  
 
 "
 printf " ${B}  WROTEN BY ${R} mohamad mahdi ebrahimi ${B} AND${R} seyed mahdi  ${N}\n \n"
 printf " ${c}telegram --->>    @khatcode \n"
-printf " ${c}telegram --->>    @khatcode \n"
+printf " ${c}telegram --->>    @khatcode \n\n"
 
 printf "${C}give me the name of tools = ${R}"
 python3 no_need.py
