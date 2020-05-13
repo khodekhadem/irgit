@@ -15,7 +15,9 @@ ${C}      | ||  _ <  ${Y}| |_| || |  | |
 ${C}     |___|_| \_\ ${Y} \____|___| |_|  
 
 "
-printf " ${B}  WROTEN BY ${R} #######${B} AND${R} *******  ${N}\n \n"
+printf " ${B}  WROTEN BY ${R} mohamad mahdi ebrahimi ${B} AND${R} seyed mahdi  ${N}\n \n"
+printf " ${c}telegram --->>    @khatcode "
+printf " ${c}telegram --->>    @khatcode "
 
 printf "${C}give me the name of tools = ${R}"
 python3 no_need.py
